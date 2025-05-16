@@ -1,0 +1,14 @@
+.container{
+    margin-left: 400px;
+    margin-top: 0px;
+
+}
+
+.mensaje{
+    text-align: center;
+}
+
+.link{
+    display: flex;
+    margin-left: 400px;
+}
