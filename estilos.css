@@ -1,6 +1,5 @@
 .container{
     margin-left: 400px;
-    margin-top: 0px;
 
 }
 
@@ -11,4 +10,14 @@
 .link{
     display: flex;
     margin-left: 400px;
+}
+
+.imagen1{
+    display: flex;
+    align-items: center;
+    padding:0px;
+    border-radius: 5px;
+    margin: 3px;
+    box-shadow: 10px 10px 10px rgba(red, green, blue, alpha)
+    
 }
